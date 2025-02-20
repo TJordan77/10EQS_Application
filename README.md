@@ -5,7 +5,7 @@ This project is a tool that helps a small business owner track their product pri
 ## Project Overview & Features
 
 1. **CSV Parsing & Cleaning**: Reads `data/products.csv` and cleans data (price, stock, date, category).
-2. **External Data Integration**: Fetches coffee-related data from a sample API ([https://api.sampleapis.com/coffee](Coffee API)).
+2. **External Data Integration**: Fetches coffee-related data from a sample API ([https://api.sampleapis.com]([Coffee API](https://api.sampleapis.com))).
 3. **Actionable Insight**: Compares our average coffee price against a mock calculated average from the external data.
 4. **Report Generation**: Outputs a `report.md` with data quality findings, summary, and insights.
 
