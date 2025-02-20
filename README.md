@@ -57,7 +57,7 @@ Repo Structure
 
 - **Data Cleaning**: I standardized prices, converted out-of-stock strings to numeric 0, and normalized date formats.
 - **External Data**: I chose [SampleAPIs](https://sampleapis.com) because it provides open coffee data. The data includes coffee names and attributes, allowing a basic comparison.
-- **Insights**: I generate a simple recommendation on whether our coffee prices are higher or loIr than an external average.
+- **Insights**: I generated a simple recommendation on whether our coffee prices are higher or lower than an external average.
 
 ## Time (Well) Spent
 
