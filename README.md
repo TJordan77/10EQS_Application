@@ -1,1 +1,0 @@
-# 10EQS_Application
